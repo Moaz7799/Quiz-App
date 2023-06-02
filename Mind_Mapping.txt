@@ -1,0 +1,23 @@
+
+03 - Add Dummy DaDone :
+01 - Create The JSON Object For The Questions
+02 - Start Creating HTML Markupta
+04 - Create The Styling By CSS
+05 - Fetch The Number Of Questions From The JSON Object
+06 - Show The Questions Count + Questions Category
+07 - Show The Number Of Bullets Depend On Questions Count
+08 - Set The Variables That Has The Number Of Right And Wrong Answers
+09 - Create Countdown Timer
+10 - Fetch The Questions From The JSON Object
+11 - Show First Question
+12 - Check Answer And Then Hide The Question And Then Show The Upcoming Question
+13 - If The Time End, click on the submit button automatically
+14 - Add Class On The Bullet After Answering The Question
+15 - If The Questions Finished Show The Result
+
+In Progress :
+
+Ideas
+- Many JSON Objects And Choose Language
+- Add Many Questions And Choose Only 10 Randomly
+- Randomize The Answers ( Shuffle Function )
